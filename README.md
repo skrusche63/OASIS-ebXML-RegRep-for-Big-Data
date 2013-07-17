@@ -1,4 +1,2 @@
-OASIS-ebXML-RegRep-for-Big-Data
-===============================
+OASIS ebXML RegRep v4.0 for Cassandra
 
-An implementation of the OASIS ebXML RegRep v4.0 Standard for Cassandra
