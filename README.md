@@ -13,4 +13,9 @@ The OASIS ebRS implementation supports **authentication** based on OASIS SAML v2
 The OASIS ebXML Registry Information Model is a feature-rich meta-model that is best suited to support information 
 integration and management scenarios, especially in a semantic-driven environment.
 
+The OASIS ebRIM profile is a pure Java layer offering a pre-defined set of Standard-compliant column families derived 
+from the newest version of the Registry Information Model. This layer enables Cassandra to become a Standardized platform 
+for Big Data Information Management.
+
+
 To be continued.
