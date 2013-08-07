@@ -25,4 +25,4 @@ from the newest version of the Registry Information Model. This layer enables Ca
 for Big Data Information Management.
 
 
-To be continued.
+Read [more](https://github.com/skrusche63/OASIS-ebXML-RegRep-for-Big-Data/wiki/OASIS-ebRIM-v4-for-Cassandra).
