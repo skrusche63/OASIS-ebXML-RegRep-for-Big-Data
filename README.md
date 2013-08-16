@@ -1,3 +1,5 @@
+![Big Data Registry & Repository](https://raw.github.com/skrusche63/OASIS-ebXML-RegRep-for-Big-Data/master/resources/BigDataRegRep.png)
+
 # Standardized Big Data Management
 
 Cassandra RegRep is a registry and repository (RegRep) specialized for the Big Data Information Management based upon 
