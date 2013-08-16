@@ -40,6 +40,14 @@ for Big Data Information Management.
 
 Read [more](https://github.com/skrusche63/OASIS-ebXML-RegRep-for-Big-Data/wiki/OASIS-ebRIM-v4-for-Cassandra).
 
+
 ### Architecture
 
 ![Big Data RegRep Architecture](https://raw.github.com/skrusche63/OASIS-ebXML-RegRep-for-Big-Data/master/resources/Architecture.png)
+
+
+## Background Information
+This is a list of additional information associated with the use of the OASIS ebXML Standard.
+
+* [Open Geospatial Consortium Uses ebRIM](http://ebxml.xml.org/node/71)
+
