@@ -50,4 +50,9 @@ Read [more](https://github.com/skrusche63/OASIS-ebXML-RegRep-for-Big-Data/wiki/O
 This is a list of additional information associated with the use of the OASIS ebXML Standard.
 
 * [Open Geospatial Consortium Uses ebRIM](http://ebxml.xml.org/node/71)
+* [OGC Adopts ebRIM Application Profile for Catalogues](http://ebxml.xml.org/news/ogc-adopts-ebrim-application-profile-for-catalogues-0)
+* [ebXML RegRep Spatio-temporal Application Profile](https://www.oasis-open.org/committees/download.php/44727/regrep-spatio-temporal-profile.pdf)
+
+_To be continued_ 
+
 
