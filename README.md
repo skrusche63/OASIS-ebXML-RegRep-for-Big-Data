@@ -6,6 +6,17 @@ Cassandra RegRep is a registry and repository (RegRep) specialized for the Big D
 the OASIS ebXML RegRep standard. It enables seamless secure management of almost any kind of digital content associated 
 with a pre-defined and Standard-compliant metadata description.
 
+If any of the following keywords describe your problem domain this Cassandra-based and standard-compliant registry & 
+repository is a must have:
+* Big Data
+* Interoperability
+* Metadata Management
+* Information Management
+* Registry (& Repository)
+* Semantic
+* Standard-compliant 
+* Unified Information Access
+
 
 ## OASIS ebXML RegRep v4.0 for Cassandra
 
